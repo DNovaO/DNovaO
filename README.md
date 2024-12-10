@@ -1,9 +1,13 @@
 <h2 align="center">Hi 👋! My name is Diego, your confident brogrammer. =)</h2>
 
 ###
+<div style="text-align:center;">
+  <img height="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXE5Z291YnU3cHdrMzhmaGc1MGZhemhpaXh2Y2MzbHUxNGxmYjZvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gzaDUUFiQinEAtMNA/giphy.gif"/>
+</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DNovaO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My%20stats" height="150" alt="stats graph"  />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=DNovaO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My%20stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNovaO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
