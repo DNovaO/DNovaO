@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: center;" align="center">
 
   <h2>Hi 👋! My name is Diego, your confident brogrammer. =)</h2>
 
@@ -34,17 +34,17 @@
   </div>
 
   <div>
-    <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc0Z3d5Mmg2b211dTRxcTk1dTMzNnp6aGYwdXJ3dGF3bDlrbTQ3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+    <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc0Z3d5Mmg2b211dTRxcTk1dTMzNnp6aGYwdXJ3dGF3bDlrbTQ3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
   </div>
 
-  <div>
-    <a href="mailto:d_novao@hotmail.com" target="_blank">
+  <div align="center">
+    <a href="mailto:d_novao@hotmail.com" target="_blank" align="center">
       <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
     </a>
-    <a href="https://www.linkedin.com/in/diego-nova-olgu%C3%ADn-057b0a268" target="_blank">
+    <a href="https://www.linkedin.com/in/diego-nova-olgu%C3%ADn-057b0a268" target="_blank" align="center">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
     </a>
-    <a href="mailto:novad8538@gmail.com" target="_blank">
+    <a href="mailto:novad8538@gmail.com" target="_blank" align="center">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
     </a>
   </div>
