@@ -30,11 +30,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
   </div>
   
-  <!-- GIF de interacción -->
-  <div>
-    <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc0Z3d5Mmg2b211dTRxcTk1dTMzNnp6aGYwdXJ3dGF3dDlrbTQ3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Fun GIF"/>
-  </div>
-
   <!-- Enlaces de contacto -->
   <h3>Contact Me:</h3>
   <div>
