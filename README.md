@@ -7,12 +7,6 @@
 
   <p>Full-stack / backend engineer who turns messy Excel macros and legacy systems into real production platforms. Currently building enterprise systems for the insurance sector — and shipping side projects for real clients on my own time.</p>
 
-  <!-- Estadísticas -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=DNovaO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My%20stats" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DNovaO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </div>
-
   <!-- Habilidades (Logos) -->
   <h3>Technologies I Use:</h3>
   <div>
