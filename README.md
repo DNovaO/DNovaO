@@ -5,7 +5,7 @@
     <img height="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXE5Z291YnU3cHdrMzhmaGc1MGZhemhpaXh2Y2MzbHUxNGxmYjZvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gzaDUUFiQinEAtMNA/giphy.gif" alt="Welcome GIF"/>
   </div>
 
-  <p>Full-stack / backend engineer who turns messy Excel macros and legacy systems into real production platforms. Currently building enterprise systems for the insurance sector — and shipping side projects for real clients on my own time.</p>
+  <p>Full-stack / backend engineer who turns messy Excel macros and legacy systems into real production platforms. Currently building enterprise systems for the insurance sector and shipping side projects for real clients on my own time.</p>
 
   <!-- Habilidades (Logos) -->
   <h3>Technologies I Use:</h3>
